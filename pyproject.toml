@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "nicdam"
+version = "0.1.0"
+description = "A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Regression"
+authors = ["Martin Trat <trat@fzi.de>"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/m-martin-j/NICDAM"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+packages = [
+    { include = "nicdam" },
+    { include = "datamemory" },
+]
+
+[tool.poetry.dependencies]
+python = ">= 3.9, < 3.13"
+numpy = "^1.24"
+pandas = "^2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

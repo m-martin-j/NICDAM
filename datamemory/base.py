@@ -1,0 +1,4 @@
+
+
+class DataAccessError(Exception):
+    pass
