@@ -8,7 +8,7 @@ A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Reg
 @misc{Trat.submitted,
  author = {Trat, Martin and Bergmann, Philipp and Ott, Andreas and Ovtcharova, Jivka},
  year = {2024},
- title = {A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Regression. Manuscript submitted for publication}
+ title = {{A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Regression. Manuscript submitted for publication}}
 }
 ```
 
