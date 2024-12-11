@@ -5,10 +5,18 @@ A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Reg
 
 ## Cite As
 ```bibtex
-@misc{Trat.submitted,
+@incollection{Trat.2024,
  author = {Trat, Martin and Bergmann, Philipp and Ott, Andreas and Ovtcharova, Jivka},
+ title = {A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Regression},
+ pages = {3--13},
+ publisher = {{Springer Nature Switzerland}},
+ isbn = {978-3-031-74481-5},
+ series = {Lecture Notes in Mechanical Engineering},
+ editor = {Wang, Yi-Chi and Chan, Siu Hang and Wang, Zih-Huei},
+ booktitle = {Flexible Automation and Intelligent Manufacturing: Manufacturing Innovation and Preparedness for the Changing World Order},
  year = {2024},
- title = {{A Nature-Inspired Concept Drift Adaptation Method for Industrial Data Stream Regression. Manuscript submitted for publication}}
+ address = {Cham},
+ doi = {10.1007/978-3-031-74482-2{\_}1}
 }
 ```
 
